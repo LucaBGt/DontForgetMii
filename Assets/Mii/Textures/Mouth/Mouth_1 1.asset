@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3109f115eef64f64fb66c584dd620f74, type: 3}
+  m_Name: Mouth_1 1
+  m_EditorClassIdentifier: 
+  MyObject: {fileID: 0}
+  MyTexture: {fileID: 2800000, guid: a816cf4c8b3fbae4da9b561e9174fa5c, type: 3}
+  MySprite: {fileID: 8438138059392614824, guid: 2d30da8fe4ae21249bc531a20e90d4b2, type: 3}
+  MyColor: {r: 0, g: 0, b: 0, a: 0}
+  MyCategory: 5

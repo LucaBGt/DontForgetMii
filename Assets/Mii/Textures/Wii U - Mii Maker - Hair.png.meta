@@ -1,0 +1,3324 @@
+fileFormatVersion: 2
+guid: 00fad0dd31852554c9a07dbf52d3a346
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2728024057862513985
+    second: Wii U - Mii Maker - Hair_0
+  - first:
+      213: -1913914385052822809
+    second: Wii U - Mii Maker - Hair_1
+  - first:
+      213: 7968466310077393908
+    second: Wii U - Mii Maker - Hair_2
+  - first:
+      213: -937883467565640485
+    second: Wii U - Mii Maker - Hair_3
+  - first:
+      213: 306839555029914821
+    second: Wii U - Mii Maker - Hair_4
+  - first:
+      213: -357697900156507422
+    second: Wii U - Mii Maker - Hair_5
+  - first:
+      213: 4621139233470958978
+    second: Wii U - Mii Maker - Hair_6
+  - first:
+      213: -2339287598029079333
+    second: Wii U - Mii Maker - Hair_7
+  - first:
+      213: 6543458873155419033
+    second: Wii U - Mii Maker - Hair_8
+  - first:
+      213: -244541797662462105
+    second: Wii U - Mii Maker - Hair_9
+  - first:
+      213: 5212179723807340090
+    second: Wii U - Mii Maker - Hair_10
+  - first:
+      213: -3875595437263220637
+    second: Wii U - Mii Maker - Hair_11
+  - first:
+      213: -2863775725753500700
+    second: Wii U - Mii Maker - Hair_12
+  - first:
+      213: 1066602860710567970
+    second: Wii U - Mii Maker - Hair_13
+  - first:
+      213: 7341279712916561769
+    second: Wii U - Mii Maker - Hair_14
+  - first:
+      213: 469716318115712158
+    second: Wii U - Mii Maker - Hair_15
+  - first:
+      213: -4057354550069143308
+    second: Wii U - Mii Maker - Hair_16
+  - first:
+      213: 940948246355087124
+    second: Wii U - Mii Maker - Hair_17
+  - first:
+      213: -2654436801793169384
+    second: Wii U - Mii Maker - Hair_18
+  - first:
+      213: -9068745820000320070
+    second: Wii U - Mii Maker - Hair_19
+  - first:
+      213: 7402724496162368159
+    second: Wii U - Mii Maker - Hair_20
+  - first:
+      213: 4395311404951419449
+    second: Wii U - Mii Maker - Hair_21
+  - first:
+      213: 7015978297577483424
+    second: Wii U - Mii Maker - Hair_22
+  - first:
+      213: 6042030634965884937
+    second: Wii U - Mii Maker - Hair_23
+  - first:
+      213: -5861597692488960559
+    second: Wii U - Mii Maker - Hair_24
+  - first:
+      213: -3240529095948491457
+    second: Wii U - Mii Maker - Hair_25
+  - first:
+      213: 9063325149969316901
+    second: Wii U - Mii Maker - Hair_26
+  - first:
+      213: 8863884557508839911
+    second: Wii U - Mii Maker - Hair_27
+  - first:
+      213: 6989893367095046944
+    second: Wii U - Mii Maker - Hair_28
+  - first:
+      213: -2815594545390515591
+    second: Wii U - Mii Maker - Hair_29
+  - first:
+      213: 3798195308067285941
+    second: Wii U - Mii Maker - Hair_30
+  - first:
+      213: -6304176497605223033
+    second: Wii U - Mii Maker - Hair_31
+  - first:
+      213: -8689032674543122910
+    second: Wii U - Mii Maker - Hair_32
+  - first:
+      213: -2603412473165213189
+    second: Wii U - Mii Maker - Hair_33
+  - first:
+      213: -784271171188637639
+    second: Wii U - Mii Maker - Hair_34
+  - first:
+      213: -1213777978770947826
+    second: Wii U - Mii Maker - Hair_35
+  - first:
+      213: 8770229371718428905
+    second: Wii U - Mii Maker - Hair_36
+  - first:
+      213: -4491775317891892696
+    second: Wii U - Mii Maker - Hair_37
+  - first:
+      213: -5012445201937937716
+    second: Wii U - Mii Maker - Hair_38
+  - first:
+      213: 6629969561143738412
+    second: Wii U - Mii Maker - Hair_39
+  - first:
+      213: -960299829828982830
+    second: Wii U - Mii Maker - Hair_40
+  - first:
+      213: 990072263898793025
+    second: Wii U - Mii Maker - Hair_41
+  - first:
+      213: -7788777905466587312
+    second: Wii U - Mii Maker - Hair_42
+  - first:
+      213: 1325303949221677404
+    second: Wii U - Mii Maker - Hair_43
+  - first:
+      213: -5778431052304531916
+    second: Wii U - Mii Maker - Hair_44
+  - first:
+      213: -4274704643690411726
+    second: Wii U - Mii Maker - Hair_45
+  - first:
+      213: 2950772516978423891
+    second: Wii U - Mii Maker - Hair_46
+  - first:
+      213: -1146630906654374013
+    second: Wii U - Mii Maker - Hair_47
+  - first:
+      213: 7305069208741631726
+    second: Wii U - Mii Maker - Hair_48
+  - first:
+      213: -5697756803545359977
+    second: Wii U - Mii Maker - Hair_49
+  - first:
+      213: 4178933656985537077
+    second: Wii U - Mii Maker - Hair_50
+  - first:
+      213: 8523585433995728065
+    second: Wii U - Mii Maker - Hair_51
+  - first:
+      213: 1190228916488159302
+    second: Wii U - Mii Maker - Hair_52
+  - first:
+      213: -8336353715381509602
+    second: Wii U - Mii Maker - Hair_53
+  - first:
+      213: 311642236814115777
+    second: Wii U - Mii Maker - Hair_54
+  - first:
+      213: -5732727640734474321
+    second: Wii U - Mii Maker - Hair_55
+  - first:
+      213: 7380556359430302681
+    second: Wii U - Mii Maker - Hair_56
+  - first:
+      213: 2681303968322454461
+    second: Wii U - Mii Maker - Hair_57
+  - first:
+      213: 640743243882780444
+    second: Wii U - Mii Maker - Hair_58
+  - first:
+      213: 8095404201397334787
+    second: Wii U - Mii Maker - Hair_59
+  - first:
+      213: 7188173728531432864
+    second: Wii U - Mii Maker - Hair_60
+  - first:
+      213: 6418695376506004538
+    second: Wii U - Mii Maker - Hair_61
+  - first:
+      213: 6087158266625482107
+    second: Wii U - Mii Maker - Hair_62
+  - first:
+      213: -1006943448944264700
+    second: Wii U - Mii Maker - Hair_63
+  - first:
+      213: -979958561738298785
+    second: Wii U - Mii Maker - Hair_64
+  - first:
+      213: -6877750150013219364
+    second: Wii U - Mii Maker - Hair_65
+  - first:
+      213: 6623692392782923680
+    second: Wii U - Mii Maker - Hair_66
+  - first:
+      213: -3335968824794545093
+    second: Wii U - Mii Maker - Hair_67
+  - first:
+      213: -4045393793478480230
+    second: Wii U - Mii Maker - Hair_68
+  - first:
+      213: 7968830525361504797
+    second: Wii U - Mii Maker - Hair_69
+  - first:
+      213: 6787133610122120783
+    second: Wii U - Mii Maker - Hair_70
+  - first:
+      213: 3298599760599962009
+    second: Wii U - Mii Maker - Hair_71
+  - first:
+      213: 5956667851188591912
+    second: Wii U - Mii Maker - Hair_72
+  - first:
+      213: 5002475121504484333
+    second: Wii U - Mii Maker - Hair_73
+  - first:
+      213: -3519187346896617365
+    second: Wii U - Mii Maker - Hair_74
+  - first:
+      213: -3402087004913962994
+    second: Wii U - Mii Maker - Hair_75
+  - first:
+      213: -6406881977170143902
+    second: Wii U - Mii Maker - Hair_76
+  - first:
+      213: 4696627834541522039
+    second: Wii U - Mii Maker - Hair_77
+  - first:
+      213: 8704534706574317636
+    second: Wii U - Mii Maker - Hair_78
+  - first:
+      213: 663326803157696598
+    second: Wii U - Mii Maker - Hair_79
+  - first:
+      213: -939943503973386447
+    second: Wii U - Mii Maker - Hair_80
+  - first:
+      213: -7775798345256123911
+    second: Wii U - Mii Maker - Hair_81
+  - first:
+      213: -6809686412554801608
+    second: Wii U - Mii Maker - Hair_82
+  - first:
+      213: -6385866740496075703
+    second: Wii U - Mii Maker - Hair_83
+  - first:
+      213: 7895373370642327013
+    second: Wii U - Mii Maker - Hair_84
+  - first:
+      213: 7030486984941504727
+    second: Wii U - Mii Maker - Hair_85
+  - first:
+      213: -8166153952375366023
+    second: Wii U - Mii Maker - Hair_86
+  - first:
+      213: 280369616607179007
+    second: Wii U - Mii Maker - Hair_87
+  - first:
+      213: 1750951436105503445
+    second: Wii U - Mii Maker - Hair_88
+  - first:
+      213: 1116283395681245826
+    second: Wii U - Mii Maker - Hair_89
+  - first:
+      213: -8766618957428115233
+    second: Wii U - Mii Maker - Hair_90
+  - first:
+      213: -8666164404030413592
+    second: Wii U - Mii Maker - Hair_91
+  - first:
+      213: 8673908361169342158
+    second: Wii U - Mii Maker - Hair_92
+  - first:
+      213: -5158745848787535176
+    second: Wii U - Mii Maker - Hair_93
+  - first:
+      213: -4303428717198416660
+    second: Wii U - Mii Maker - Hair_94
+  - first:
+      213: 561826606066560657
+    second: Wii U - Mii Maker - Hair_95
+  - first:
+      213: 7986264825185074210
+    second: Wii U - Mii Maker - Hair_96
+  - first:
+      213: -402441311122382477
+    second: Wii U - Mii Maker - Hair_97
+  - first:
+      213: -965651058927362114
+    second: Wii U - Mii Maker - Hair_98
+  - first:
+      213: -7567160450609215764
+    second: Wii U - Mii Maker - Hair_99
+  - first:
+      213: 4891495193323919482
+    second: Wii U - Mii Maker - Hair_100
+  - first:
+      213: -3227169428793142726
+    second: Wii U - Mii Maker - Hair_101
+  - first:
+      213: 570067787643349024
+    second: Wii U - Mii Maker - Hair_102
+  - first:
+      213: 1726948465264897107
+    second: Wii U - Mii Maker - Hair_103
+  - first:
+      213: 5190307426292073836
+    second: Wii U - Mii Maker - Hair_104
+  - first:
+      213: -6183515218125079582
+    second: Wii U - Mii Maker - Hair_105
+  - first:
+      213: 5368563782772511324
+    second: Wii U - Mii Maker - Hair_106
+  - first:
+      213: 2825879751875369546
+    second: Wii U - Mii Maker - Hair_107
+  - first:
+      213: -5757691309354188516
+    second: Wii U - Mii Maker - Hair_108
+  - first:
+      213: 2136866507975980588
+    second: Wii U - Mii Maker - Hair_109
+  - first:
+      213: -9149183693610414917
+    second: Wii U - Mii Maker - Hair_110
+  - first:
+      213: 527380046872126002
+    second: Wii U - Mii Maker - Hair_111
+  - first:
+      213: 2488167011020249582
+    second: Wii U - Mii Maker - Hair_112
+  - first:
+      213: -8312674565630404945
+    second: Wii U - Mii Maker - Hair_113
+  - first:
+      213: 3146960496810859132
+    second: Wii U - Mii Maker - Hair_114
+  - first:
+      213: 6746837672569059693
+    second: Wii U - Mii Maker - Hair_115
+  - first:
+      213: -6876723306810902780
+    second: Wii U - Mii Maker - Hair_116
+  - first:
+      213: -3270182917133141824
+    second: Wii U - Mii Maker - Hair_117
+  - first:
+      213: -7069012771391616231
+    second: Wii U - Mii Maker - Hair_118
+  - first:
+      213: 8034136822874674267
+    second: Wii U - Mii Maker - Hair_119
+  - first:
+      213: -4268330356375195701
+    second: Wii U - Mii Maker - Hair_120
+  - first:
+      213: -224329976487389547
+    second: Wii U - Mii Maker - Hair_121
+  - first:
+      213: 8210538407315556434
+    second: Wii U - Mii Maker - Hair_122
+  - first:
+      213: 3968820204117554645
+    second: Wii U - Mii Maker - Hair_123
+  - first:
+      213: -8623968686367909265
+    second: Wii U - Mii Maker - Hair_124
+  - first:
+      213: 534113391900945504
+    second: Wii U - Mii Maker - Hair_125
+  - first:
+      213: 3962616131515683616
+    second: Wii U - Mii Maker - Hair_126
+  - first:
+      213: -3769972495439384374
+    second: Wii U - Mii Maker - Hair_127
+  - first:
+      213: -4529251549507183316
+    second: Wii U - Mii Maker - Hair_128
+  - first:
+      213: -471022013830419172
+    second: Wii U - Mii Maker - Hair_129
+  - first:
+      213: 4214739409806264643
+    second: Wii U - Mii Maker - Hair_130
+  - first:
+      213: 5524664944617321565
+    second: Wii U - Mii Maker - Hair_131
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 4793
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1456d9b4d63ebd520800000000000000
+      internalID: 2728024057862513985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 4793
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e29a64d1096075e0800000000000000
+      internalID: -1913914385052822809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_2
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 4793
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fba4d8e3eda59e60800000000000000
+      internalID: 7968466310077393908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_3
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 4681
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4d90394f7fbf2f0800000000000000
+      internalID: -937883467565640485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_4
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 4669
+        width: 70
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4d89813fc124400800000000000000
+      internalID: 306839555029914821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_5
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 4682
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaa44ca7a3390bf0800000000000000
+      internalID: -357697900156507422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 4571
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d48a426a5912040800000000000000
+      internalID: 4621139233470958978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_7
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 4571
+        width: 62
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcfffbd25e298fd0800000000000000
+      internalID: -2339287598029079333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_8
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 4571
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b7ec82d290fca50800000000000000
+      internalID: 6543458873155419033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_9
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 4460
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fe799d7863b9cf0800000000000000
+      internalID: -244541797662462105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_10
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 4460
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36b70fe7d1655840800000000000000
+      internalID: 5212179723807340090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_11
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 4460
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3601dcccb7e173ac0800000000000000
+      internalID: -3875595437263220637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 4349
+        width: 62
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb731e7623d148d0800000000000000
+      internalID: -2863775725753500700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_13
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 4347
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220a11596a55dce00800000000000000
+      internalID: 1066602860710567970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_14
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 4349
+        width: 66
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f5c2dc00771e560800000000000000
+      internalID: 7341279712916561769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 4238
+        width: 66
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ccd7ea084c48600800000000000000
+      internalID: 469716318115712158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 4238
+        width: 75
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f85053988161b7c0800000000000000
+      internalID: -4057354550069143308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_17
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 4238
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f8508d17bee0d00800000000000000
+      internalID: 940948246355087124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 4127
+        width: 68
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818e466eacb892bd0800000000000000
+      internalID: -2654436801793169384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_19
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 4127
+        width: 72
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5829899b7552280800000000000000
+      internalID: -9068745820000320070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_20
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 4127
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a27db35b2cbb660800000000000000
+      internalID: 7402724496162368159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 4016
+        width: 68
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a3a597f684ffc30800000000000000
+      internalID: 4395311404951419449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_22
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 4016
+        width: 76
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aca4f2e613cd5160800000000000000
+      internalID: 7015978297577483424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_23
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 4016
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9006b27b9da99d350800000000000000
+      internalID: 6042030634965884937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_24
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 3903
+        width: 76
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d532fa64fb67aea0800000000000000
+      internalID: -5861597692488960559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_25
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 3898
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f352cafc4f35703d0800000000000000
+      internalID: -3240529095948491457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_26
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 3905
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cf8cf443667cd70800000000000000
+      internalID: 9063325149969316901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_27
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 3794
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9826cca08d20b70800000000000000
+      internalID: 8863884557508839911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_28
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 3789
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0233f8bbbf6110160800000000000000
+      internalID: 6989893367095046944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_29
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 3793
+        width: 76
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a887abdaffce8d0800000000000000
+      internalID: -2815594545390515591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_30
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 3670
+        width: 70
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbe7ec4286e5b430800000000000000
+      internalID: 3798195308067285941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_31
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 3681
+        width: 91
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ddfda50e01388a0800000000000000
+      internalID: -6304176497605223033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_32
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 3683
+        width: 82
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2264818a1da5a6780800000000000000
+      internalID: -8689032674543122910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_33
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 3559
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf19a2d2622dedbd0800000000000000
+      internalID: -2603412473165213189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_34
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 3568
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930c8b96685bd15f0800000000000000
+      internalID: -784271171188637639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_35
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 3572
+        width: 82
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e018a23fb5bc72fe0800000000000000
+      internalID: -1213777978770947826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_36
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 3455
+        width: 82
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e869fb952d16b970800000000000000
+      internalID: 8770229371718428905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_37
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 3461
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82abf2695220aa1c0800000000000000
+      internalID: -4491775317891892696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_38
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 3461
+        width: 66
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccac06a55a7307ab0800000000000000
+      internalID: -5012445201937937716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_39
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 3350
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2000a35032620c50800000000000000
+      internalID: 6629969561143738412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_40
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 3341
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7ec2584645ca2f0800000000000000
+      internalID: -960299829828982830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_41
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 3350
+        width: 64
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14487a77a717dbd00800000000000000
+      internalID: 990072263898793025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_42
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 3238
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057c04ef2c3b8e390800000000000000
+      internalID: -7788777905466587312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_43
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3239
+        width: 64
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59c7c88bec646210800000000000000
+      internalID: 1325303949221677404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_44
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 3239
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e3d48c293eecfa0800000000000000
+      internalID: -5778431052304531916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_45
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 3128
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239ce1166c23da4c0800000000000000
+      internalID: -4274704643690411726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_46
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3128
+        width: 64
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358fb7768ff33f820800000000000000
+      internalID: 2950772516978423891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_47
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 3127
+        width: 64
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387c168f3495610f0800000000000000
+      internalID: -1146630906654374013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_48
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 3017
+        width: 64
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee650becdb1d06560800000000000000
+      internalID: 7305069208741631726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_49
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3017
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7991d1c00608de0b0800000000000000
+      internalID: -5697756803545359977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_50
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 3016
+        width: 66
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a0c84250e8ef930800000000000000
+      internalID: 4178933656985537077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_51
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2906
+        width: 66
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c45206dacbd94670800000000000000
+      internalID: 8523585433995728065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_52
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2906
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640cca8b4ea848010800000000000000
+      internalID: 1190228916488159302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_53
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 2906
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e126da8b6725f4c80800000000000000
+      internalID: -8336353715381509602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_54
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2781
+        width: 70
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3405696fc235400800000000000000
+      internalID: 311642236814115777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_55
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2782
+        width: 70
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf55f385924170b0800000000000000
+      internalID: -5732727640734474321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_56
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2782
+        width: 76
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbe790b7e00d6660800000000000000
+      internalID: 7380556359430302681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_57
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2670
+        width: 86
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db384b6c0c7e53520800000000000000
+      internalID: 2681303968322454461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_58
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2670
+        width: 86
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c175dd3e59064e800800000000000000
+      internalID: 640743243882780444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_59
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 2670
+        width: 86
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3033e79da37a85070800000000000000
+      internalID: 8095404201397334787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_60
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2560
+        width: 70
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a549e8ebe581c360800000000000000
+      internalID: 7188173728531432864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_61
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2559
+        width: 76
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34251eef69c31950800000000000000
+      internalID: 6418695376506004538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_62
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2559
+        width: 74
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d5bcd313ee97450800000000000000
+      internalID: 6087158266625482107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_63
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2449
+        width: 70
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a35c8a44e9602f0800000000000000
+      internalID: -1006943448944264700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_64
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2448
+        width: 76
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a6cf051ec7662f0800000000000000
+      internalID: -979958561738298785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_65
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2448
+        width: 74
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd829eada25d80a0800000000000000
+      internalID: -6877750150013219364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_66
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2338
+        width: 74
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7884d23251ceb50800000000000000
+      internalID: 6623692392782923680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_67
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2337
+        width: 76
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b340850570244b1d0800000000000000
+      internalID: -3335968824794545093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_68
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 2337
+        width: 90
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e252b37cfdbd7c0800000000000000
+      internalID: -4045393793478480230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_69
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2227
+        width: 74
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1246736429f69e60800000000000000
+      internalID: 7968830525361504797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_70
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2226
+        width: 76
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e81720f0eb03e50800000000000000
+      internalID: 6787133610122120783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_71
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 2226
+        width: 90
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991dfba610bf6cd20800000000000000
+      internalID: 3298599760599962009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_72
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2120
+        width: 92
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82dd513d9d55aa250800000000000000
+      internalID: 5956667851188591912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_73
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2115
+        width: 78
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debf0076e9c5c6540800000000000000
+      internalID: 5002475121504484333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_74
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 2126
+        width: 78
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b608d22e0c5592fc0800000000000000
+      internalID: -3519187346896617365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_75
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2009
+        width: 92
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e007121e4eb59c0d0800000000000000
+      internalID: -3402087004913962994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_76
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2010
+        width: 76
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265dbe079ce2617a0800000000000000
+      internalID: -6406881977170143902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_77
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 2015
+        width: 78
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c3f08b126cd2140800000000000000
+      internalID: 4696627834541522039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_78
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1905
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448db607238bcc870800000000000000
+      internalID: 8704534706574317636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_79
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1907
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650c538863c943900800000000000000
+      internalID: 663326803157696598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_80
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1900
+        width: 76
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137fab8fc56a4f2f0800000000000000
+      internalID: -939943503973386447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_81
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1794
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f140f95a90d61490800000000000000
+      internalID: -7775798345256123911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_82
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1796
+        width: 74
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83eeddb79422f71a0800000000000000
+      internalID: -6809686412554801608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_83
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1789
+        width: 76
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944ffb58808d067a0800000000000000
+      internalID: -6385866740496075703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_84
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1679
+        width: 78
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5e636cf30029d60800000000000000
+      internalID: 7895373370642327013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_85
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1685
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d80277e9ae419160800000000000000
+      internalID: 7030486984941504727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_86
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1684
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e93871f3efbae80800000000000000
+      internalID: -8166153952375366023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_87
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1568
+        width: 78
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0feab4ea214e300800000000000000
+      internalID: 280369616607179007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_88
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1574
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d25700ed01ac4810800000000000000
+      internalID: 1750951436105503445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_89
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1573
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a5f3485d5dd7f00800000000000000
+      internalID: 1116283395681245826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_90
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1453
+        width: 70
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8ba497186b65680800000000000000
+      internalID: -8766618957428115233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_91
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1463
+        width: 76
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4e1acc3699bb780800000000000000
+      internalID: -8666164404030413592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_92
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1463
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece0ac9b2b9ef5870800000000000000
+      internalID: 8673908361169342158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_93
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1342
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba7f749bf37868b0800000000000000
+      internalID: -5158745848787535176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_94
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1352
+        width: 76
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce46c2bd1662744c0800000000000000
+      internalID: -4303428717198416660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_95
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1352
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ee5ff42520cc700800000000000000
+      internalID: 561826606066560657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_96
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1241
+        width: 78
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c7a53ab89e4de60800000000000000
+      internalID: 7986264825185074210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_97
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1232
+        width: 82
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371ab9f72cd3a6af0800000000000000
+      internalID: -402441311122382477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_98
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1231
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf97a76a715992f0800000000000000
+      internalID: -965651058927362114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_99
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1130
+        width: 92
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce68d07a9ab0cf690800000000000000
+      internalID: -7567160450609215764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_100
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1120
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a785a9a46f412e340800000000000000
+      internalID: 4891495193323919482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_101
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1120
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32d8c6b08ac633d0800000000000000
+      internalID: -3227169428793142726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_102
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1006
+        width: 84
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028ef5ce1a949e700800000000000000
+      internalID: 570067787643349024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_103
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1006
+        width: 74
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c2589ba7a57f710800000000000000
+      internalID: 1726948465264897107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_104
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1006
+        width: 76
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c650633da1da70840800000000000000
+      internalID: 5190307426292073836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_105
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 895
+        width: 84
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebbe68bbadbf2aa0800000000000000
+      internalID: -6183515218125079582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_106
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 895
+        width: 74
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52de2a0158f08a40800000000000000
+      internalID: 5368563782772511324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_107
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 895
+        width: 76
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a108489aa873720800000000000000
+      internalID: 2825879751875369546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_108
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 797
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11079b72429810b0800000000000000
+      internalID: -5757691309354188516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_109
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 797
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26765474cca7ad10800000000000000
+      internalID: 2136866507975980588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_110
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 797
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc0e85b7e1970180800000000000000
+      internalID: -9149183693610414917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_111
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 686
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2322173cb51a15700800000000000000
+      internalID: 527380046872126002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_112
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 686
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee915b1b6beb78220800000000000000
+      internalID: 2488167011020249582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_113
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 686
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6dc26668273ac80800000000000000
+      internalID: -8312674565630404945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_114
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 568
+        width: 81
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a199606ef3cab20800000000000000
+      internalID: 3146960496810859132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_115
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 575
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69b3beed1591ad50800000000000000
+      internalID: 6746837672569059693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_116
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 574
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407f2ee3698f090a0800000000000000
+      internalID: -6876723306810902780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_117
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 455
+        width: 74
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c87ab986f9fd92d0800000000000000
+      internalID: -3270182917133141824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_118
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 464
+        width: 66
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bc0807652d5ed90800000000000000
+      internalID: -7069012771391616231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_119
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 464
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54945cafdcfe7f60800000000000000
+      internalID: 8034136822874674267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_120
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 343
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf6d3cc728d3c4c0800000000000000
+      internalID: -4268330356375195701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_121
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 340
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5965ffe231503ecf0800000000000000
+      internalID: -224329976487389547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_122
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 342
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258cebe1e21b1f170800000000000000
+      internalID: 8210538407315556434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_123
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 232
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5f1dba2f4141730800000000000000
+      internalID: 3968820204117554645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_124
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 229
+        width: 65
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ad2f6eb22815880800000000000000
+      internalID: -8623968686367909265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_125
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 231
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ce802dc4d896700800000000000000
+      internalID: 534113391900945504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_126
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 131
+        width: 90
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0239934706a0ef630800000000000000
+      internalID: 3962616131515683616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_127
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 131
+        width: 98
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0b7545dfd5eabc0800000000000000
+      internalID: -3769972495439384374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_128
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 119
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d9c3576bdd421c0800000000000000
+      internalID: -4529251549507183316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_129
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 20
+        width: 90
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1daf3859f79679f0800000000000000
+      internalID: -471022013830419172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_130
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 20
+        width: 98
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349875e9923cd7a30800000000000000
+      internalID: 4214739409806264643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Hair_131
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 8
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54f7f60f7d8bac40800000000000000
+      internalID: 5524664944617321565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 83bffd073b4b23842be145d182ac4478
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

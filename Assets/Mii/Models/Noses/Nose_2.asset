@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3109f115eef64f64fb66c584dd620f74, type: 3}
+  m_Name: Nose_2
+  m_EditorClassIdentifier: 
+  MyObject: {fileID: 996959004415975640, guid: cc0d651bdc4c4e5478fda2fde7fc2cdc, type: 3}
+  MyTexture: {fileID: 0}
+  MySprite: {fileID: 21300000, guid: 6cd78cd9eb2426643932bcd42d0342c6, type: 3}
+  MyColor: {r: 0, g: 0, b: 0, a: 0}
+  MyCategory: 9

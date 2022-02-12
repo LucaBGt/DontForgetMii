@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: 2d30da8fe4ae21249bc531a20e90d4b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8438138059392614824
+    second: Wii U - Mii Maker - Mouths_0
+  - first:
+      213: -6882546049461267981
+    second: Wii U - Mii Maker - Mouths_1
+  - first:
+      213: 5763856206748682189
+    second: Wii U - Mii Maker - Mouths_2
+  - first:
+      213: -4757142528220827862
+    second: Wii U - Mii Maker - Mouths_3
+  - first:
+      213: -8615605212530913045
+    second: Wii U - Mii Maker - Mouths_4
+  - first:
+      213: -4214966763296860306
+    second: Wii U - Mii Maker - Mouths_5
+  - first:
+      213: 4009194646537366374
+    second: Wii U - Mii Maker - Mouths_6
+  - first:
+      213: 1969272676587934650
+    second: Wii U - Mii Maker - Mouths_7
+  - first:
+      213: 4107969953143037574
+    second: Wii U - Mii Maker - Mouths_8
+  - first:
+      213: -5540561183495734176
+    second: Wii U - Mii Maker - Mouths_9
+  - first:
+      213: -4379129096798353274
+    second: Wii U - Mii Maker - Mouths_10
+  - first:
+      213: 4917150939343605824
+    second: Wii U - Mii Maker - Mouths_11
+  - first:
+      213: 2763033694992984673
+    second: Wii U - Mii Maker - Mouths_12
+  - first:
+      213: -9167016081065248095
+    second: Wii U - Mii Maker - Mouths_13
+  - first:
+      213: 3983893497839763042
+    second: Wii U - Mii Maker - Mouths_14
+  - first:
+      213: 9218101651625297333
+    second: Wii U - Mii Maker - Mouths_15
+  - first:
+      213: -1478862539408353230
+    second: Wii U - Mii Maker - Mouths_16
+  - first:
+      213: 7365123667807495343
+    second: Wii U - Mii Maker - Mouths_17
+  - first:
+      213: 5193900363289893794
+    second: Wii U - Mii Maker - Mouths_18
+  - first:
+      213: 7792334173640081901
+    second: Wii U - Mii Maker - Mouths_19
+  - first:
+      213: -6811261525868710900
+    second: Wii U - Mii Maker - Mouths_20
+  - first:
+      213: -1317803082864661646
+    second: Wii U - Mii Maker - Mouths_21
+  - first:
+      213: 6022167813544046742
+    second: Wii U - Mii Maker - Mouths_22
+  - first:
+      213: -1003461928017512327
+    second: Wii U - Mii Maker - Mouths_23
+  - first:
+      213: 8089564533178701408
+    second: Wii U - Mii Maker - Mouths_24
+  - first:
+      213: -1005644009585635310
+    second: Wii U - Mii Maker - Mouths_25
+  - first:
+      213: -3956171794187509920
+    second: Wii U - Mii Maker - Mouths_26
+  - first:
+      213: -7853902863666153251
+    second: Wii U - Mii Maker - Mouths_27
+  - first:
+      213: -8754543156624116091
+    second: Wii U - Mii Maker - Mouths_28
+  - first:
+      213: -7693525828390578366
+    second: Wii U - Mii Maker - Mouths_29
+  - first:
+      213: 8860584177771218231
+    second: Wii U - Mii Maker - Mouths_30
+  - first:
+      213: 405630334763028934
+    second: Wii U - Mii Maker - Mouths_31
+  - first:
+      213: 3245882178874861063
+    second: Wii U - Mii Maker - Mouths_32
+  - first:
+      213: -8823800820480550085
+    second: Wii U - Mii Maker - Mouths_33
+  - first:
+      213: -7545625155199053799
+    second: Wii U - Mii Maker - Mouths_34
+  - first:
+      213: 1971993604495326246
+    second: Wii U - Mii Maker - Mouths_35
+  - first:
+      213: 633538755614926381
+    second: Wii U - Mii Maker - Mouths_36
+  - first:
+      213: -1026089115489951584
+    second: Wii U - Mii Maker - Mouths_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Mouths_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1273
+        width: 70
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a10dcb9bd94a1570800000000000000
+      internalID: 8438138059392614824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Mouths_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1265
+        width: 84
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1d79355d84c70a0800000000000000
+      internalID: -6882546049461267981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Mouths_2
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1268
+        width: 98
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc78fab8ea45dff40800000000000000
+      internalID: 5763856206748682189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Mouths_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1161
+        width: 104
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f6e73331c3bfdb0800000000000000
+      internalID: -4757142528220827862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Mouths_4
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1148
+        width: 100
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be05716e4b83f6880800000000000000
+      internalID: -8615605212530913045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Mouths_5
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1160
+        width: 106
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67dc958f0e6185c0800000000000000
+      internalID: -4214966763296860306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Mouths_6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1038
+        width: 74
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66be1461a4583a730800000000000000
+      internalID: 4009194646537366374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Mouths_7
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1045
+        width: 102
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab318e1d013445b10800000000000000
+      internalID: 1969272676587934650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Mouths_8
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1045
+        width: 96
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e911d48e0720930800000000000000
+      internalID: 4107969953143037574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Mouths_9
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 916
+        width: 82
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c3b6175f8fb13b0800000000000000
+      internalID: -5540561183495734176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Mouths_10
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 928
+        width: 56
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688c1cfb9453a33c0800000000000000
+      internalID: -4379129096798353274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Mouths_11
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 921
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040dd862aba3d3440800000000000000
+      internalID: 4917150939343605824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Mouths_12
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 833
+        width: 88
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16aed74a184485620800000000000000
+      internalID: 2763033694992984673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Mouths_13
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 820
+        width: 98
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aaffc5717738c080800000000000000
+      internalID: -9167016081065248095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Mouths_14
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 824
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e3ab95702a94730800000000000000
+      internalID: 3983893497839763042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Mouths_15
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 708
+        width: 88
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b54190dc964def70800000000000000
+      internalID: 9218101651625297333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Mouths_16
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 706
+        width: 80
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238dee21b560a7be0800000000000000
+      internalID: -1478862539408353230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Mouths_17
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 701
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4ec7a24fc263660800000000000000
+      internalID: 7365123667807495343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Mouths_18
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 606
+        width: 85
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab9aa8acd0741840800000000000000
+      internalID: 5193900363289893794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Mouths_19
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 611
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de144f635aee32c60800000000000000
+      internalID: 7792334173640081901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Mouths_20
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 592
+        width: 82
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c047f46dab98971a0800000000000000
+      internalID: -6811261525868710900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Mouths_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 589
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27befe1041936bde0800000000000000
+      internalID: -1317803082864661646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Mouths_22
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 487
+        width: 86
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690751838b9039350800000000000000
+      internalID: 6022167813544046742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Mouths_23
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 484
+        width: 84
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97833ea61bcf212f0800000000000000
+      internalID: -1003461928017512327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Mouths_24
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 488
+        width: 93
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06617b32518e34070800000000000000
+      internalID: 8089564533178701408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Mouths_25
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 371
+        width: 80
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2101626f91c3b02f0800000000000000
+      internalID: -1005644009585635310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Mouths_26
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 371
+        width: 77
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f9801c6bad819c0800000000000000
+      internalID: -3956171794187509920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Mouths_27
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 367
+        width: 88
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd871ce05f4510390800000000000000
+      internalID: -7853902863666153251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Mouths_28
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 268
+        width: 84
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586b792f16d918680800000000000000
+      internalID: -8754543156624116091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Mouths_29
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 257
+        width: 86
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2479c78650b1b3590800000000000000
+      internalID: -7693525828390578366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Mouths_30
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 267
+        width: 70
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73500824d5e17fa70800000000000000
+      internalID: 8860584177771218231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Mouths_31
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 147
+        width: 74
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c15cade3a611a500800000000000000
+      internalID: 405630334763028934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Mouths_32
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 156
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7066b9ee4a0bb0d20800000000000000
+      internalID: 3245882178874861063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Mouths_33
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 147
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bd47e77ef8b8580800000000000000
+      internalID: -8823800820480550085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Mouths_34
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 35
+        width: 92
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910db1856ed884790800000000000000
+      internalID: -7545625155199053799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Mouths_35
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 54
+        width: 96
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c39473cbded5b10800000000000000
+      internalID: 1971993604495326246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Mouths_36
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 28
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26eedf3428cac800800000000000000
+      internalID: 633538755614926381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Mii Maker - Mouths_37
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 36
+        width: 40
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0a35bc26992c1f0800000000000000
+      internalID: -1026089115489951584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f5aaa16e9bc36d3488fb1d8b34cb4d9a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

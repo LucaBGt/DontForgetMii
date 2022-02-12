@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efcebc68d601b9a40b21d89548daecbf, type: 3}
+  m_Name: BodyPartList
+  m_EditorClassIdentifier: 
+  Bodies:
+  - {fileID: 11400000, guid: d8b3630986e23cf4dbc0ef7f6155bd6b, type: 2}
+  - {fileID: 11400000, guid: 96081b27f46b3ef40bd1dc6c8beb5d93, type: 2}
+  HeadParts:
+  - {fileID: 11400000, guid: a2905b3a27bf3f94488cb235c709ceb2, type: 2}
+  - {fileID: 11400000, guid: 65d0df978a931284184e48a13a50dd4d, type: 2}
+  - {fileID: 11400000, guid: 52bcb9a01d83a8143966e0a38356039f, type: 2}
+  - {fileID: 11400000, guid: ac6bf07ed8387da40b1dad5c14b6ffc1, type: 2}
+  SkinColors:
+  - {fileID: 11400000, guid: f069e382061841a4498cce67d805e1d1, type: 2}
+  - {fileID: 11400000, guid: b8efb5c6c910372489d34e223956487d, type: 2}
+  - {fileID: 11400000, guid: b15f9974be0d7504881fc8297e9fe3da, type: 2}
+  - {fileID: 11400000, guid: 9d1b75998fa9f434090e1418ca4ae953, type: 2}
+  - {fileID: 11400000, guid: d17ba1da2d89df741bca79e77e10df92, type: 2}
+  - {fileID: 11400000, guid: 74eb0d05838c94542ae4b958e7d3c574, type: 2}
+  - {fileID: 11400000, guid: 5a5bc69e1d6605c41abb99bee74c1a4c, type: 2}
+  - {fileID: 11400000, guid: 9f3474de0b67f4f4e80cce2adefae364, type: 2}
+  - {fileID: 11400000, guid: 35ea0196d7b55aa47806c7f8b528689e, type: 2}
+  - {fileID: 11400000, guid: 208bcba4f34b48b4dbff87e66b854ea9, type: 2}
+  Wrinkles:
+  - {fileID: 11400000, guid: fdacad4ca8fb6894f9199cfc9cfe8425, type: 2}
+  - {fileID: 11400000, guid: 6763842a24285c74d815111898c59542, type: 2}
+  - {fileID: 11400000, guid: b8621e6d1620e4348bdd35065141310e, type: 2}
+  - {fileID: 11400000, guid: 6a66149fb21f67c46b3a5e7f668c01d7, type: 2}
+  - {fileID: 11400000, guid: 0d0a08c190b3e184fa47712f9d79757f, type: 2}
+  - {fileID: 11400000, guid: 4857cb132fead5140a2d767df73c4b2c, type: 2}
+  - {fileID: 11400000, guid: bfe19e8436527bb489774141b323afd3, type: 2}
+  - {fileID: 11400000, guid: 43915b05b9f5eaf48a45bb38e6ad6b32, type: 2}
+  - {fileID: 11400000, guid: 3738772db54bf804a8f4ca1a9f34451a, type: 2}
+  - {fileID: 11400000, guid: a05be65d3af38d240b4cbb8fb4f84944, type: 2}
+  - {fileID: 11400000, guid: 04d7ad65ae1905d49a138f82796a5cbb, type: 2}
+  - {fileID: 11400000, guid: 3bc0b09d067559945b66c390910c14c5, type: 2}
+  Decorations:
+  - {fileID: 11400000, guid: fe59a669de8781845997e9346b64b685, type: 2}
+  - {fileID: 11400000, guid: 4435c957c834148468e0db2f2cfe243d, type: 2}
+  - {fileID: 11400000, guid: dcdaf06f691bd2749950929c04d01618, type: 2}
+  - {fileID: 11400000, guid: c53d3de97206e9f408dfe4ead96682d7, type: 2}
+  - {fileID: 11400000, guid: 217d300ac2ef351438c667a647392ca4, type: 2}
+  - {fileID: 11400000, guid: b4d5fd9c709cec54cb0b67fb5c8b39b0, type: 2}
+  - {fileID: 11400000, guid: 675b96cbd327267499010c9a1a7624f0, type: 2}
+  - {fileID: 11400000, guid: 68a873bbbc3976649b9f302c145e9005, type: 2}
+  - {fileID: 11400000, guid: e1683b8cac2cd864f960d0b2162e018c, type: 2}
+  - {fileID: 11400000, guid: a63db752647cc48498ceaa5a036651b6, type: 2}
+  - {fileID: 11400000, guid: bb5229e64e63fb246bd962ab5582b7bc, type: 2}
+  - {fileID: 11400000, guid: 9adabccd197d0624e834662e45a181e4, type: 2}
+  Mouths:
+  - {fileID: 11400000, guid: db6eddbc20e820d45b1f40eeb6c6caa3, type: 2}
+  - {fileID: 11400000, guid: e1091bfdc95ea414c94608ae7aa0ecc5, type: 2}
+  - {fileID: 11400000, guid: 7ecfcac40de194342a63d3aea34d3634, type: 2}
+  - {fileID: 11400000, guid: 3b26e4478b43b434d873713f1f14008a, type: 2}
+  - {fileID: 11400000, guid: bfa96b0c177a2e440b28a675b06e2c7a, type: 2}
+  - {fileID: 11400000, guid: e33e42f6a49ef3449b244cd68c0b9c81, type: 2}
+  LipColors:
+  - {fileID: 11400000, guid: d5d2b1821404ab4498bbbd95fd9fdb56, type: 2}
+  - {fileID: 11400000, guid: 9accccb06e98efe4fa0bc52adcca72b2, type: 2}
+  - {fileID: 11400000, guid: e387d4e75477da44280917b54acf5c1f, type: 2}
+  - {fileID: 11400000, guid: 7da732e019415f74bab3455fcc30e146, type: 2}
+  - {fileID: 11400000, guid: 50e80829c8127214ab6529bb695a3018, type: 2}
+  Hairs:
+  - {fileID: 11400000, guid: f9ce0e7c0f20db841b018f1921d92a96, type: 2}
+  - {fileID: 11400000, guid: 1bc5df269241c2a4da445584f8570db4, type: 2}
+  - {fileID: 11400000, guid: 393edd9d775a71d46a31d931a242ca89, type: 2}
+  - {fileID: 11400000, guid: 093dc86f65bbdbb43b5b381dcd9a7b45, type: 2}
+  - {fileID: 11400000, guid: 1116555d6c3d7cf47afebc2161378a25, type: 2}
+  - {fileID: 11400000, guid: af0c615178cedd24cb870b690a79caf6, type: 2}
+  HairColors:
+  - {fileID: 11400000, guid: e2f69224494010348ae862bee2a87048, type: 2}
+  - {fileID: 11400000, guid: fe6cc45328dc55742a9ffcb0d410ad15, type: 2}
+  - {fileID: 11400000, guid: 1bcd48ca35e6bf543a75eb71dd8bf2da, type: 2}
+  - {fileID: 11400000, guid: 48a885d13f9641840b954dc0365a9fa7, type: 2}
+  - {fileID: 11400000, guid: 41e1bb30d9ccc9145abb1976033b85b5, type: 2}
+  - {fileID: 11400000, guid: bc6395a257e8973408dcdbed1b05820e, type: 2}
+  - {fileID: 11400000, guid: d096368eaf004e84aa5fff69e38b14cc, type: 2}
+  Noses:
+  - {fileID: 11400000, guid: fdbefb0d57a484b4e9142698d5ea2c50, type: 2}
+  - {fileID: 11400000, guid: 3b32dfd4f5d5a594a9a8bfa26cb76ea1, type: 2}
+  Eyebrows:
+  - {fileID: 11400000, guid: b25d5f0e61363334a8e229f5e9b7f6d7, type: 2}
+  - {fileID: 11400000, guid: 050604c4defee914294e3774614845e2, type: 2}

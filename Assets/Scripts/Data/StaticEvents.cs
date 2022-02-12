@@ -21,7 +21,7 @@ public static class StaticEvents
     public static ReplaceMiiPart ReplaceMiiNose = new ReplaceMiiPart();
     public static ReplaceMiiPosition ReplaceMiiNosePosition = new ReplaceMiiPosition();
     public static ReplaceMiiPart ReplaceMiiEyebrow = new ReplaceMiiPart();
-
+    public static ReplaceMiiPosition ReplaceMiiHeightWeight = new ReplaceMiiPosition();
 
     public static void SetCGActive(CanvasGroup _cg, bool _setActive)
     {

@@ -46,6 +46,7 @@ namespace Mii
 
             StaticEvents.ReplaceMiiNosePosition.AddListener(ReplaceNosePosition);
             StaticEvents.ReplaceMiiMouthPosition.AddListener(ReplaceMouthPosition);
+            StaticEvents.ReplaceMiiHeightWeight.AddListener(ReplaceHeightWeight);
 
             StaticEvents.ReplaceMiiSkinColor.AddListener(ReplaceSkinColor);
             StaticEvents.ReplaceMiiHairColor.AddListener(ReplaceHairColor);
@@ -71,7 +72,12 @@ namespace Mii
 
             MyBody = _newBody.GetComponent<MiiBody>();
             MyMii.Body = AllBodyParts.Bodies.IndexOf(newHead);
+
+            //Animator Stuff
             _animator = MyBody.Animator;
+            _animator.SetFloat("Weight", MyMii.HeightWeight.y);
+
+
             if (_bodyMaterial == null)
             {
                 _bodyMaterial = MyBody.UpperBody.material;
@@ -267,6 +273,13 @@ namespace Mii
             _hairMaterial.SetColor("_BaseColor", newHead.MyColor);
             MyMii.HairColor = newHead.MyColor;
         }
+
+        public void ReplaceHeightWeight(Vector2 heightWeight, Vector2 noVecHere)
+        {
+            MyMii.HeightWeight = heightWeight;
+
+            _animator.SetFloat("Weight", MyMii.HeightWeight.y);
+        }
     }
 
     [System.Serializable]
@@ -288,6 +301,7 @@ namespace Mii
         public Vector2 NoseTiling;
         public Vector2 NoseOffset;
         public int Eyebrow;
+        public Vector2 HeightWeight;
     }
 
     [System.Serializable]

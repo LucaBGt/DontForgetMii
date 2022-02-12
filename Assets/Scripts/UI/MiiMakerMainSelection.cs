@@ -19,6 +19,7 @@ namespace Mii
         public CanvasGroup NoseCG;
         public CanvasGroup GenderCG;
         public CanvasGroup EyebrowCG;
+        public CanvasGroup BodyCG;
 
         [Space]
         public Button BackButton;
@@ -88,6 +89,7 @@ namespace Mii
             allCGs.Add(HairCG);
             allCGs.Add(NoseCG);
             allCGs.Add(GenderCG);
+            allCGs.Add(BodyCG);
             allCGs.Add(EyebrowCG);
         }
 
@@ -119,6 +121,13 @@ namespace Mii
             setActiveCG(HairCG);
             BackButton.gameObject.SetActive(true);
             MainCinemachineCam.SetActive(false);
+        }
+
+        public void SetBodyCGActive()
+        {
+            setActiveCG(BodyCG);
+            BackButton.gameObject.SetActive(true);
+            //MainCinemachineCam.SetActive(false);
         }
 
         public void SetGenderCGActive()

@@ -6,7 +6,15 @@ ModelImporter:
   - first:
       74: 3843776497191093824
     second: Armature|Wait01
+  - first:
+      74: 1252757192341615044
+    second: Armature|Armature|Armature|Wait01|Armature|Wait01
   externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SkinColor
+    second: {fileID: 2100000, guid: 5cc945f41cca9e244bccd9e4bdd210e9, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -19,7 +27,7 @@ ModelImporter:
     second: {fileID: 2100000, guid: 62e901a0488310b4497994f9d831cacc, type: 2}
   materials:
     materialImportMode: 2
-    materialName: 0
+    materialName: 1
     materialSearch: 1
     materialLocation: 1
   animations:

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3109f115eef64f64fb66c584dd620f74, type: 3}
   m_Name: MiiBody_Male
   m_EditorClassIdentifier: 
-  MyObject: {fileID: 8505109222529876974, guid: 9e14c5aabb59aef44afc241ef2e006ea, type: 3}
+  MyObject: {fileID: 7067651743198158435, guid: 9e14c5aabb59aef44afc241ef2e006ea, type: 3}
   MyTexture: {fileID: 0}
   MySprite: {fileID: -4690833715183024517, guid: 26a34537fc2efa644a893b46ae440fae, type: 3}
   MyColor: {r: 0, g: 0, b: 0, a: 0}

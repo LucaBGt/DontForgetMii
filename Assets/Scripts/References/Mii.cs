@@ -52,7 +52,7 @@ namespace Mii
             StaticEvents.ReplaceMiiHairColor.AddListener(ReplaceHairColor);
             StaticEvents.ReplaceMiiMouthColor.AddListener(ReplaceLipColor);
 
-
+            StaticEvents.ReplaceMiiPronouns.AddListener(ReplacePronouns);
         }
 
         public void ReplaceBody(BodyPart newHead)
@@ -69,14 +69,14 @@ namespace Mii
             GameObject _newBody = Instantiate(newHead.MyObject, this.transform);
 
             _newBody.transform.localScale = Vector3.one;
+            _newBody.transform.localPosition = Vector3.up * -1;
 
             MyBody = _newBody.GetComponent<MiiBody>();
             MyMii.Body = AllBodyParts.Bodies.IndexOf(newHead);
 
             //Animator Stuff
             _animator = MyBody.Animator;
-            _animator.SetFloat("Weight", MyMii.HeightWeight.y);
-
+            ReplaceHeightWeight(MyMii.HeightWeight, Vector3.zero);
 
             if (_bodyMaterial == null)
             {
@@ -85,6 +85,7 @@ namespace Mii
             else
             {
                 MyBody.UpperBody.material = _bodyMaterial;
+                MyBody.Hands.material = _headMaterial;
             }
 
             MyHeadObject = MyBody.NeckBone;
@@ -155,6 +156,9 @@ namespace Mii
                 MyNose.transform.parent = MyHead.NosePosition;
                 MyNose.transform.localPosition = Vector3.zero;
             }
+
+            MyBody.Hands.material = _headMaterial;
+            StaticEvents.ReplaceCamTarget.Invoke(MyHead.transform);
         }
 
         public void ReplaceHair(BodyPart newHead)
@@ -278,7 +282,59 @@ namespace Mii
         {
             MyMii.HeightWeight = heightWeight;
 
-            _animator.SetFloat("Weight", MyMii.HeightWeight.y);
+
+            //Replace Weight
+            if (MyHead != null)
+                MyHead.transform.parent = null;
+
+            //
+            if (heightWeight.y < 0)
+            {
+                MyBody.UpperBody.SetBlendShapeWeight(1, heightWeight.y * -100);
+                MyBody.LowerBody.SetBlendShapeWeight(1, heightWeight.y * -100);
+                MyBody.Hands.SetBlendShapeWeight(1, heightWeight.y * -100);
+            }
+            else if (heightWeight.y > 0)
+            {
+                MyBody.UpperBody.SetBlendShapeWeight(0, heightWeight.y * 100);
+                MyBody.LowerBody.SetBlendShapeWeight(0, heightWeight.y * 100);
+                MyBody.Hands.SetBlendShapeWeight(0, heightWeight.y * 100);
+            }
+
+            if (MyHead != null)
+                MyHead.transform.parent = MyBody.NeckBone;
+
+            //Replace Height
+            if (MyHead != null)
+            {
+                MyHead.transform.parent = null;
+            }
+            if (MyHair != null)
+            {
+                MyHair.transform.parent = null;
+            }
+
+            MyBody.transform.localScale = Vector3.one + Vector3.up * MyMii.HeightWeight.x * .5f;
+
+            if (MyHead != null)
+            {
+                MyHead.transform.parent = MyHeadObject;
+                MyHead.transform.localPosition = Vector3.zero;
+                MyHead.transform.localRotation = Quaternion.Euler(0, 0, 0);
+            }
+            if (MyHair != null)
+            {
+                MyHair.transform.parent = MyHeadObject;
+                MyHair.transform.localPosition = Vector3.zero + Vector3.up * MyHead.HairOffset;
+                MyHair.transform.localRotation = Quaternion.Euler(0, 0, 0);
+            }
+        }
+
+        void ReplacePronouns(string one, string two, string three)
+        {
+            MyMii.Gender.Pronouns = one;
+            MyMii.Gender.OhHeyIts = two;
+            MyMii.Gender.PossessivePronouns = three;
         }
     }
 

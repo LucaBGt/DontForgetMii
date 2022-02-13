@@ -33,10 +33,25 @@ ModelImporter:
   - first:
       74: -1342196718886024618
     second: Armature|Armature|Armature|Wait00|Armature|Wait00
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SkinColor
+    second: {fileID: 2100000, guid: 5cc945f41cca9e244bccd9e4bdd210e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mt_body
+    second: {fileID: 2100000, guid: bde2a59d53bc1c3469b8549b40e6b429, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mt_pants
+    second: {fileID: 2100000, guid: 62e901a0488310b4497994f9d831cacc, type: 2}
   materials:
     materialImportMode: 2
-    materialName: 0
+    materialName: 1
     materialSearch: 1
     materialLocation: 1
   animations:

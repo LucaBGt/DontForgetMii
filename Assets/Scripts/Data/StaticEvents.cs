@@ -22,6 +22,9 @@ public static class StaticEvents
     public static ReplaceMiiPosition ReplaceMiiNosePosition = new ReplaceMiiPosition();
     public static ReplaceMiiPart ReplaceMiiEyebrow = new ReplaceMiiPart();
     public static ReplaceMiiPosition ReplaceMiiHeightWeight = new ReplaceMiiPosition();
+    public static ReplaceTransform ReplaceCamTarget = new ReplaceTransform();
+    public static ReplacePronouns ReplaceMiiPronouns = new ReplacePronouns();
+
 
     public static void SetCGActive(CanvasGroup _cg, bool _setActive)
     {
@@ -52,3 +55,6 @@ public class ReplaceMiiHair : UnityEvent<BodyPart> { }
 public class ReplaceMiiWrinkles : UnityEvent<BodyPart> { }
 public class ReplaceMiiPosition : UnityEvent<Vector2, Vector2> { }
 public class ReplaceFloat : UnityEvent<float> { }
+public class ReplaceTransform : UnityEvent<Transform> { }
+public class ReplacePronouns : UnityEvent<string, string, string> { }
+
